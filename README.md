@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ryujeeKim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 # 👋🏻 Hi there!
 
 I'm a Computer Engineering major at **Sookmyung Women's University** 🎓  
@@ -10,7 +11,8 @@ A passionate learner who constantly explores and thinks creatively to solve prob
 
 - 💻 **Main Language**: Kotlin,Dart 
 - 📱 **Currently Learning**: Flutter · Android (Kotlin) · Web (HTML/CSS/JavaScript)  
-- 🛠 **Tools**: Android Studio · IntelliJ · Git · Figma  
+- 🛠 **Tools**: Android Studio · IntelliJ · Git · Figma
+- <img src="https://img.shields.io/badge/androidstudio-#3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black">
 
 ---
 
@@ -38,6 +40,8 @@ A passionate learner who constantly explores and thinks creatively to solve prob
 
 _I'm on a journey to become a developer who builds thoughtful, useful solutions._ 🌱
 
+
+---
 
 # 👋🏻 안녕하세요!
 
