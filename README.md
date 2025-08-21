@@ -63,4 +63,4 @@ _생각이 담긴, 유용한 서비스를 만드는 개발자가 되는 것이 �
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryujeeKim&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryujeeKim&layout=compact&theme=tokyonight)
