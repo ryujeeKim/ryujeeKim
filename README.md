@@ -61,4 +61,5 @@
 
 _생각이 담긴, 유용한 서비스를 만드는 개발자가 되는 것이 제 목표입니다._ 🌱
 
-![Ryujee's GitHub stats](https://github-readme-stats.vercel.app/api?ryujeeKim=ryujeeKim
+![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?ryujeeKim=seolranlee&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ryujeeKim=seolranlee&theme=onedark)
