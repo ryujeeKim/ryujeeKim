@@ -61,3 +61,6 @@
 
 _생각이 담긴, 유용한 서비스를 만드는 개발자가 되는 것이 제 목표입니다._ 🌱
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryujeeKim&show_icons=true&theme=tokyonight)
+
