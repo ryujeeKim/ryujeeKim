@@ -51,6 +51,7 @@
 
 ---
 
+
 ## 🙋🏻‍♀️ 연락처
 
 - 📧 이메일: ryujee7566@gmail.com  
@@ -60,3 +61,4 @@
 
 _생각이 담긴, 유용한 서비스를 만드는 개발자가 되는 것이 제 목표입니다._ 🌱
 
+![Ryujee's GitHub stats](https://github-readme-stats.vercel.app/api?ryujeeKim=ryujeeKim
