@@ -9,7 +9,8 @@
 
 ## 👩🏻‍💻 기술 스택 및 관심 분야
 
-- 💻 **주 사용 언어**: Kotlin, Dart  
+- 💻 **주 사용 언어**: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
 - 📱 **현재 학습 중**: Flutter · Android (Kotlin) · Web (HTML/CSS/JavaScript)  
 - 🛠 **도구**: Android Studio · Flutter · Git · Figma  
 
